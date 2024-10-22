@@ -1,0 +1,2 @@
+// creates a my_db database or use it.
+user my_db;
