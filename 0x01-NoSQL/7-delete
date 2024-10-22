@@ -1,0 +1,2 @@
+// delete all docs with a certain attribute.
+db.school.deleteMany({ name: "Holberton school" });
